@@ -5,6 +5,10 @@ Copyright 2021 SuperHouse Automation Pty Ltd  www.superhouse.tv
 
 A prototyping board to fit the Rack32.
 
+![R32PROTO PCB](Images/R32PROTO-v1_0-render-1.jpg)
+
+![R32PROTO PCB](Images/R32PROTO-v1_0-render-2.jpg)
+
 More information:
 
   http://www.superhouse.tv/rack32
